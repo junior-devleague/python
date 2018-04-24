@@ -23,6 +23,8 @@ Format of class was as follows:
   - Students then discussed if they could program anything in the world what would they program
   - Students shared with the class what their partner wants to program
 
+## Week 2
+
 ### Class Recap 4/9/18
 Format of class was as follows:
 - What is computer programming?
@@ -69,8 +71,6 @@ Format of class was as follows:
 ```
 - Variables Activity & Assignment
   - Search & Conquer Variables: https://github.com/junior-devleague/search_and_conquer_variables
-
-## Week 2
 
 ### Class Recap 4/11/18
 
