@@ -147,7 +147,7 @@ Format of class was as follows:
   
 ## Week 4
 
-### Class Recap 4/24/18
+### Class Recap 4/23/18
 
 Format of class was as follows:
 - What are conditions?
@@ -223,3 +223,30 @@ else:
 
 Assignment:
 - conditional-friendship: https://github.com/junior-devleague/conditional-friendship
+
+
+### Class Recap 4/25/18
+Format of class was as follows:
+* Introduction to Data Visualization
+  * What is Data Visualization?
+  * Data visualization helps people understand the significance of data by placing it in a visual context.
+  * Patterns, trends and correlations that might go undetected in text-based data can be exposed and recognized easier with data visualization.
+* Whiteboard Exercise
+  * Students named5 endangered species
+  * Students looked up how many of each species exist in the world
+* Live-code Examples
+  * What are python libraries?
+    * Libraries help programmers develop applications faster because they come with built-in code
+  * How to import the pygal and lxml library
+  * How to read documentation
+  * Live coded how to create a bar and pie chart
+* In-class Exercise
+* Students broke up into groups and will be assigned one of the following subjects to gather data and create a chart:
+  * 10 Hottest Temperatures in Hawaii & what year it occurred
+  * Average Rainfall Amount from 10 Cities/Towns in Hawaii
+  * Average Temperatures in Hawaii by Month
+  * Average Wave Height in Hawaii by Month
+  * Top 10 Countries Import to Hawaii
+  * Top Crop Items w/ US & Universal Rank
+  * Top Livestock Inventory w/ US & Universal Rank
+  * Teams will then have to decide how they want to visualize their data
