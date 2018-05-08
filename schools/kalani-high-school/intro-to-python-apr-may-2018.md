@@ -250,3 +250,32 @@ Format of class was as follows:
   * Top Crop Items w/ US & Universal Rank
   * Top Livestock Inventory w/ US & Universal Rank
   * Teams will then have to decide how they want to visualize their data
+
+## Week 5
+
+### Class Recap 4/30/18
+Format of class was as follows:
+* Live Coded the following:
+* Intro to Dictionaries
+* How to access dictionaries
+* How to add properties to a dictionary
+* What are key-value pairs
+* Intro to Loops
+* How to loop through lists and dictionaries
+
+
+### Class Recap 5/2/18
+Format of class was as follows:
+* Live Coded the following:
+* Reviewed how to loop through dictionaries and lists
+* Reviewed how to add properties to dictionaries
+* Assigned world map population data viz assignment
+
+## Week 6
+
+### Class Recap 4/7/18
+Format of class was as follows:
+* Visitors from the DOE came to observe
+* Students did a short presentation about the Python program for the DOE guests
+* Students broke up into groups and was assigned to teach the DOE visitors how to create basic data visualizations
+* Students and guests then presented their project and spoke about what they learned and any roadblocks they encountered and how they overcame them
