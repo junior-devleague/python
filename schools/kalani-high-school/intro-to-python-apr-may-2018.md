@@ -279,3 +279,10 @@ Format of class was as follows:
 * Students did a short presentation about the Python program for the DOE guests
 * Students broke up into groups and was assigned to teach the DOE visitors how to create basic data visualizations
 * Students and guests then presented their project and spoke about what they learned and any roadblocks they encountered and how they overcame them
+
+### Class Recap 4/9/18
+Format of class was as follows:
+* Visitor from the DOE came to observe
+* Students did a short presentation about the Python program
+* Students talked about what they learned so far and gave feedback about the program
+* Students worked on Python dictionary and loops assignment for the rest of class
