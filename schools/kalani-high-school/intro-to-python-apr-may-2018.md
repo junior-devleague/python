@@ -232,7 +232,7 @@ Format of class was as follows:
   * Data visualization helps people understand the significance of data by placing it in a visual context.
   * Patterns, trends and correlations that might go undetected in text-based data can be exposed and recognized easier with data visualization.
 * Whiteboard Exercise
-  * Students named5 endangered species
+  * Students named 5 endangered species
   * Students looked up how many of each species exist in the world
 * Live-code Examples
   * What are python libraries?
@@ -286,3 +286,26 @@ Format of class was as follows:
 * Students did a short presentation about the Python program
 * Students talked about what they learned so far and gave feedback about the program
 * Students worked on Python dictionary and loops assignment for the rest of class
+
+## Week 7
+
+### Class Recap 4/14/18:
+Format of class was as follows:
+* Reviewed and lived coded solutions for the Python dictionary and loops assignment
+* Fixed a problem where students could not import JSON files on all raspberry pi's
+* Briefly went over requirements of final project
+
+### Class Recap 4/16/18
+Format of class was as follows:
+* Went over requirements of final project in depth
+* Had students choose dataset to use for the final(aggricultural related)
+* Students worked in groups of 2-3 until end of class
+
+## Week 8
+
+### Class Recap 4/21/18
+Format of class was as follows:
+* Students worked for 25-30 minutes on final
+* Went to each group and had them show and explain to me how they incorporated loops and conditionals into their final
+* Principal talked to the class for 10-15 minutes
+* Round table till the end of class
